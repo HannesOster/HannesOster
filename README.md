@@ -1,13 +1,16 @@
 ## Hey, thanks for having a view on my Github Profile 👋
 
 ### Project overview
-Capstone Project - next.js, mongoDB, mongoose, leaflet, next-auth 
-Quote Machine - bootstrap, react (small)
-physio-learn - TypeScript, next.js
+
+- [Capstone-Project](https://flower-box-deposit.vercel.app/) - next.js, mongoDB, mongoose, leaflet, next-auth (login: test-test)
+- [Quote Machine](https://quote-machine-theta.vercel.app/) - bootstrap, react (small)
+- physio-learn - TypeScript, next.js
 
 Those are the latest projects.
 Most of the other repositorys belong to exercises of my Bootcamp. 
-Right now im working on several small projects to exercise and a private project for my brothers flower wholesale.
+Right now im working on several exercises, small projects and a private project for my brothers flower wholesale.
+
+If you´re having any problems with the deployment of the capstone project, have a look at the readme.md or contact me and i´ll try to fix it. 
 
 Feel free to checkout everything and contact me for any reason.
 
