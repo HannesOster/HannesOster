@@ -1,5 +1,3 @@
-## Hey, thanks for having a view on my Github Profile 👋
-
 ### Project overview
 
 - [Capstone-Project](https://flower-box-deposit.vercel.app/) - next.js, mongoDB, mongoose, leaflet, next-auth (login: test-test)
