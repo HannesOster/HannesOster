@@ -6,8 +6,13 @@
 
 Smaller/incomplete Projects 
 - [Quote Machine](https://quote-machine-theta.vercel.app/) - bootstrap, react (small)
-- physio-learn - TypeScript, next.js
+- [physio-learn](https://github.com/HannesOster/physio_learn/tree/main) - TypeScript, next.js
 - etc.
+
+I also tried other frameworks/languages:
+
+- [SAPUI5](https://github.com/HannesOster/SAPUI5_walkthrough)
+- [AL_DataTypes](https://github.com/HannesOster/AL_DataTypes)
 
 Those are the latest projects.
 Most of the other repositorys belong to exercises of my Bootcamp. 
