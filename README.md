@@ -3,12 +3,16 @@
 ### Project overview
 
 - [Capstone-Project](https://flower-box-deposit.vercel.app/) - next.js, mongoDB, mongoose, leaflet, next-auth (login: test-test)
+
+Smaller/incomplete Projects 
 - [Quote Machine](https://quote-machine-theta.vercel.app/) - bootstrap, react (small)
 - physio-learn - TypeScript, next.js
+- etc.
 
 Those are the latest projects.
 Most of the other repositorys belong to exercises of my Bootcamp. 
-Right now im working on several exercises, small projects and a private project for my brothers flower wholesale.
+Right now im working on several exercises, small projects and a private project for my brothers flower wholesale. 
+Im currently learning to use Redux, tRPC and prisma with react/next.js. 
 
 If you´re having any problems with the deployment of the capstone project, have a look at the readme.md or contact me and i´ll try to fix it. 
 
