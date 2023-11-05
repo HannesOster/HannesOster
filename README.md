@@ -1,8 +1,18 @@
-###Johannes Osterkamp
+### Johannes Osterkamp
 
 Frontend Developer
 
 Have a look at my repos! Feel free to contact me for any reason.
+
+### Projects:
+
+- [Capstone-Project](https://flower-box-deposit.vercel.app/) - next.js, mongoDB, mongoose, leaflet, next-auth (login: test-test)
+
+Smaller/incomplete projects 
+- [Quote Machine](https://quote-machine-theta.vercel.app/) - bootstrap, react 
+- [physio-learn](https://github.com/HannesOster/physio_learn/tree/main) - TypeScript, next.js
+- etc.
+
 
 
 
