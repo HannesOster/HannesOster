@@ -7,9 +7,10 @@ Have a look at my repos! Feel free to contact me for any reason.
 ### Projects:
 
 - [Capstone-Project](https://flower-box-deposit.vercel.app/) **- login: "test" - "test"** - next.js, mongoDB, mongoose, leaflet, next-auth
+- [EventCMS](https://github.com/HannesOster/EventPromoCMS) - react, c#, sqlite, mui
 
 
-Smaller/incomplete projects 
+Smaller
 - [Quote Machine](https://quote-machine-theta.vercel.app/) - bootstrap, react 
 - [physio-learn](https://github.com/HannesOster/physio_learn/tree/main) - TypeScript, next.js
 - etc.
