@@ -7,7 +7,7 @@ Have a look at my repos! Feel free to contact me for any reason.
 ### Projects:
 
 - [Capstone-Project](https://flower-box-deposit.vercel.app/) **- login: "test" - "test"** - next.js, mongoDB, mongoose, leaflet, next-auth
-- [EventCMS](https://github.com/HannesOster/EventPromoCMS) - react, c#, sqlite, mui
+- [EventCMS](https://github.com/HannesOster/EventPromoCMS) - react, TypeScript, C#, sqlite, mui
 
 
 Smaller
